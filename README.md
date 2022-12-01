@@ -1,1 +1,3 @@
-# Container-Check-Number
+# Container Check Number Calculator
+
+The Python file calculates the "Container Check Number"
